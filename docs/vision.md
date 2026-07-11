@@ -18,3 +18,7 @@
 ## Long Term Goal
 
 人生をゲーム化するOSになる
+
+## Documentation
+
+- docs/vision.md
