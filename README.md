@@ -1,6 +1,6 @@
 # NextMe
- Beat Yesterday. Build Tomorrow.
 
+Beat Yesterday. Build Tomorrow.
 
 ## Mission
 
@@ -20,4 +20,3 @@
 ## Documentation
 
 - docs/vision.md
-``
