@@ -19,6 +19,3 @@
 
 人生をゲーム化するOSになる
 
-## Documentation
-
-- docs/vision.md
