@@ -16,3 +16,7 @@
 - Battle
 - Balance
 - Recovery
+
+## Documentation
+
+- docs/vision.md
